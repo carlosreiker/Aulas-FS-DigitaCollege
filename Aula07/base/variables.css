@@ -14,6 +14,7 @@
     --color-primary-700: hsl(220, 80%, 40%);
     --color-primary-800: hsl(220, 70%, 35%);
     --color-primary-900: hsl(220, 60%, 30%);
+    --midnight-sea: #051118;
 
     /* Cores Secundárias */
     --color-secondary: hsl(280, 85%, 60%);
